@@ -1,0 +1,6 @@
+server:
+  port: 8081
+
+log:
+  service:
+    url: http://localhost:8082 # Assuming log service is running locally
